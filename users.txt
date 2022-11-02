@@ -1,0 +1,9 @@
+{"name":"dicky","balance":9900,"isLoggedIn":true}
+{"name":"doni","balance":0,"isLoggedIn":false}
+{"name":"amin","balance":0,"isLoggedIn":false}
+{"name":"joni","balance":0,"isLoggedIn":false}
+{"name":"bayu","balance":1000,"isLoggedIn":false}
+{"name":"bambang","balance":0,"isLoggedIn":false}
+{"name":"saiki","balance":0,"isLoggedIn":false}
+{"name":"dodik","balance":8800,"isLoggedIn":false}
+{"name":"mamat","balance":1000,"isLoggedIn":false}
